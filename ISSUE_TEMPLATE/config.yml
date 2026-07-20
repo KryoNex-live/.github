@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: General Support
+    url: https://kryonex.live
+    about: Visit our website for documentation and contact information.
+
+  - name: Security Report
+    url: mailto:support@kryonex.live
+    about: Report security vulnerabilities privately.
