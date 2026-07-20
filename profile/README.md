@@ -5,7 +5,7 @@
 
   **Enterprise AI • Digital Engineering • Industry 4.0**
 
-  *Engineering intelligent software, AI-powered platforms, and digital transformation solutions.*
+  *Engineering intelligent software, AI-powered platforms and digital transformation solutions.*
 
   🌐 [Website](https://kryonex.live) &nbsp;&bull;&nbsp; 🤗 [Hugging Face](https://huggingface.co/KryoNex-live) &nbsp;&bull;&nbsp; 💼 [LinkedIn](https://www.linkedin.com/company/kryonex)
 
